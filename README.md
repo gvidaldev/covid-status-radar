@@ -1,2 +1,2 @@
-# covid-status-radar
-Radar to track covid status, using JS (ReactJS &amp; NodeJS).
+# Covid Status Radar
+Radar to track covid status, using JS (ReactJS & NodeJS)
